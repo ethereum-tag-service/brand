@@ -1,4 +1,4 @@
-# Ethereum Tag Service Logos
+# Ethereum Tag Service Brand
 
 <img alt="ETS logo" src="./ets-white.svg#gh-dark-mode-only" width="200">
 <img alt="ETS logo" src="./ets.svg#gh-light-mode-only" width="200">
